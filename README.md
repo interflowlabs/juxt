@@ -1,4 +1,6 @@
-# Juxt
+<div align="center">
+  <img src="https://juxt.io/assets/logo-for-auth0.jpg">
+</div>
 
 [Juxt](https://juxt.io) is the simplest and easiest way to compare structured data. All you have to do is: 
 -	Upload your data files
