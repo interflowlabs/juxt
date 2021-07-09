@@ -20,6 +20,15 @@ The Juxt Configuration is a JSON formatted document with the following propertie
 -	**side1_name** – *String* – A display name for the side1 file. 
 -	**side2_name** – *String* - A display name for the side2 file.
 -	**ignore_extra_columns** – *true/false* – This tells Juxt to ignore columns that are not in both side1 and side2 files. 
+-	**columns_config** - *Object* - This object contains the columns name and the relative_tolerance or absolute_tolerance. 
+Example: "columns_config": {
+    "Volume": {
+      "relative_tolerance": 0.1
+    },
+    "SharesOutstanding": {
+      "absolute_tolerance": 0.01
+    }
+  }
 -	**isPublic** – *true/false* - This value determines if your Juxt results are public to everyone. Default is false. 
 
 Here is an example configuration: 
