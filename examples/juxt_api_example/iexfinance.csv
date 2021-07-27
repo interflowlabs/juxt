@@ -1,0 +1,142 @@
+Ticker,Sector,Open,Close,Volume,SharesOutstanding,Name
+MMM,Management of Companies and Enterprises,201.71,201.86,1537228,579675002,3M Co.
+ABT,Manufacturing,118.23,117.13,4629348,1776820148,Abbott Laboratories
+ABBV,Manufacturing,117.52,116.12,5577829,1766222336,Abbvie Inc
+ABMD,Manufacturing,276.4,280.0,206662,45230966,Abiomed Inc.
+ACN,Information,285.0,283.38,2210223,665114728,Accenture plc - Class A
+ATVI,Information,96.97,95.37,5431890,777016759,Activision Blizzard Inc
+ADBE,Information,494.19,488.07,1568115,478000000,Adobe Inc
+AMD,Manufacturing,78.55,77.17,40201088,1215020976,Advanced Micro Devices Inc.
+AAP,Retail Trade,197.52,194.94,707223,65524420,Advance Auto Parts Inc
+AES,Utilities,25.49,25.36,7333932,666257334,AES Corp.
+AFL,Finance and Insurance,55.85,55.99,3058697,679667234,Aflac Inc.
+A,"Professional, Scientific, and Technical Services",132.67,132.3,1445930,304697515,Agilent Technologies Inc.
+APD,Manufacturing,298.15,298.19,672882,221314258,Air Products & Chemicals Inc.
+AKAM,Information,113.2,113.53,2192162,162991685,Akamai Technologies Inc
+ALK,Transportation and Warehousing,68.88,68.07,1083490,124481793,Alaska Air Group Inc.
+ALB,Manufacturing,159.44,159.58,1082752,116721826,Albemarle Corp.
+ARE,Finance and Insurance,174.91,174.6,1145147,147503288,Alexandria Real Estate Equities Inc.
+ALXN,Manufacturing,178.07,177.72,1990950,221019230,Alexion Pharmaceuticals Inc.
+ALGN,Manufacturing,594.1,591.75,543990,79136575,"Align Technology, Inc."
+ALLE,Administrative and Support and Waste Management and Remediation Services,138.24,137.51,471895,89978097,Allegion plc
+LNT,Utilities,57.49,58.11,1866299,250134552,Alliant Energy Corp.
+ALL,Finance and Insurance,136.39,137.43,2741395,299338684,Allstate Corp (The)
+GOOGL,Information,2317.41,2294.13,2031590,300746844,Alphabet Inc - Class A
+GOOG,Information,2365.99,2345.1,1141632,323580001,Alphabet Inc - Class C
+MO,Manufacturing,50.19,50.0,5828244,1850637974,Altria Group Inc.
+AMZN,Retail Trade,3250.0,3203.08,4104882,504323736,Amazon.com Inc.
+AMCR,,11.99,11.98,4193182,1561977648,Amcor Plc
+AEE,Utilities,84.55,85.11,3299144,255552619,Ameren Corp.
+AAL,Transportation and Warehousing,22.71,22.57,26246519,641383123,American Airlines Group Inc
+AEP,Utilities,86.61,86.65,2015921,499750400,American Electric Power Company Inc.
+AXP,Finance and Insurance,156.7,156.87,3424122,803302859,American Express Co.
+AIG,Finance and Insurance,50.75,51.31,4198760,858140647,American International Group Inc
+AMT,Finance and Insurance,250.8,249.95,1586433,444796083,American Tower Corp.
+AWK,Utilities,154.66,155.12,1605291,181469196,American Water Works Co. Inc.
+AMP,Finance and Insurance,253.38,254.27,715380,115904879,Ameriprise Financial Inc
+ABC,Wholesale Trade,120.7,120.07,806098,205410717,Amerisource Bergen Corp.
+AME,Manufacturing,133.02,132.85,1615011,230919176,Ametek Inc
+AMGN,Manufacturing,253.71,251.01,2177900,574553986,AMGEN Inc.
+APH,Manufacturing,66.9,66.35,3645114,597615720,Amphenol Corp. - Class A
+ADI,Manufacturing,159.69,159.36,3526671,368826918,Analog Devices Inc.
+ANSS,Information,336.3,330.26,270860,87151573,Ansys Inc. - Registered Shares
+ANTM,Finance and Insurance,392.87,396.08,723440,244840654,Anthem Inc
+AON,Finance and Insurance,254.39,253.21,1895253,225647250,Aon plc. - Class A
+AOS,Manufacturing,69.12,69.27,3089879,134466854,A.O. Smith Corp.
+APA,,21.07,20.89,6632829,377972835,APA Corporation
+AIV,Finance and Insurance,6.82,6.84,2130465,150066381,Apartment Investment & Management Co. - Class A
+AAPL,Manufacturing,127.82,125.43,79295436,16687631000,Apple Inc
+AMAT,Manufacturing,129.85,128.66,14252355,917660832,Applied Materials Inc.
+APTV,Manufacturing,138.56,140.46,1351233,270462749,Aptiv PLC
+ADM,Manufacturing,66.44,66.98,3776421,558702110,Archer Daniels Midland Co.
+ANET,"Professional, Scientific, and Technical Services",332.81,332.13,441062,76271362,Arista Networks Inc
+AJG,Finance and Insurance,146.54,144.9,1108745,206236980,Arthur J. Gallagher & Co.
+AIZ,Finance and Insurance,158.85,158.91,604964,60566633,Assurant Inc
+T,Information,30.01,30.01,74587869,7140000000,"AT&T, Inc."
+ATO,Utilities,98.09,98.18,1834116,130671944,Atmos Energy Corp.
+ADSK,Information,283.63,281.68,996278,220327360,Autodesk Inc.
+ADP,Information,194.8,195.28,1223564,425518320,Automatic Data Processing Inc.
+AZO,Retail Trade,1475.01,1460.26,283096,22036780,Autozone Inc.
+AVB,Finance and Insurance,200.52,200.41,779211,139604637,Avalonbay Communities Inc.
+AVY,Manufacturing,217.87,216.62,499286,83007729,Avery Dennison Corp.
+BKR,Manufacturing,25.52,25.54,6377894,773843591,Baker Hughes Co - Class A
+BLL,Manufacturing,87.41,86.78,1532461,328254521,Ball Corp.
+BAC,Finance and Insurance,42.02,42.4,40243780,8569317603,Bank Of America Corp.
+BK,Finance and Insurance,50.8,51.56,3669099,875480847,Bank Of New York Mellon Corp
+BAX,Manufacturing,83.07,83.06,1596172,502851993,Baxter International Inc.
+BDX,Manufacturing,245.83,244.48,1021549,290818504,"Becton, Dickinson And Co."
+BBY,Retail Trade,115.61,114.93,2549052,250398562,Best Buy Co. Inc.
+BIO,Manufacturing,602.22,594.74,86632,24692554,Bio-Rad Laboratories Inc. - Class A
+BIIB,Manufacturing,288.24,283.19,940406,150554750,Biogen Inc
+BLK,Finance and Insurance,848.52,860.77,692850,152526401,Blackrock Inc.
+BA,Manufacturing,232.9,234.82,16578995,584810068,Boeing Co.
+BKNG,Manufacturing,2324.57,2293.38,263248,41052813,Booking Holdings Inc
+BWA,Manufacturing,50.12,50.51,1539059,239847758,BorgWarner Inc
+BXP,Finance and Insurance,110.87,112.08,1180501,156074252,"Boston Properties, Inc."
+BMY,Manufacturing,67.24,67.05,9442092,2232843755,Bristol-Myers Squibb Co.
+AVGO,Manufacturing,457.99,451.24,1321815,408302326,Broadcom Inc
+BR,Information,160.67,159.27,595377,116125688,"Broadridge Financial Solutions, Inc."
+CHRW,Transportation and Warehousing,96.37,96.58,2444940,132988670,"C.H. Robinson Worldwide, Inc."
+COG,"Mining, Quarrying, and Oil and Gas Extraction",17.93,17.81,5346298,399419748,Cabot Oil & Gas Corp.
+CDNS,Information,126.09,123.46,1471566,278265000,"Cadence Design Systems, Inc."
+CPB,Manufacturing,48.97,48.87,2653858,303009350,Campbell Soup Co.
+COF,Finance and Insurance,158.59,159.05,3551974,451489343,Capital One Financial Corp.
+CAH,Wholesale Trade,57.36,57.34,1697926,290147927,"Cardinal Health, Inc."
+KMX,Retail Trade,118.03,116.68,1147148,163151136,Carmax Inc
+CCL,Administrative and Support and Waste Management and Remediation Services,27.89,27.17,20551460,973540516,Carnival Corp. (Paired Stock)
+CARR,Manufacturing,44.17,43.88,5536522,868998500,Carrier Global Corp
+CTLT,Manufacturing,104.33,101.82,741176,170341553,Catalent Inc.
+CAT,Manufacturing,236.6,237.24,2479364,547787152,Caterpillar Inc.
+CBOE,Finance and Insurance,111.38,111.4,351587,106685785,Cboe Global Markets Inc.
+CBRE,Real Estate and Rental and Leasing,87.85,87.18,1281460,335657390,CBRE Group Inc - Class A
+CDW,Wholesale Trade,168.52,168.07,772907,140203541,CDW Corp
+CE,Manufacturing,165.72,164.15,728332,112632560,Celanese Corp - Series A
+CNC,Finance and Insurance,72.12,73.73,7245686,582734777,Centene Corp.
+CNP,Utilities,24.76,24.71,2684076,580495853,Centerpoint Energy Inc.
+CERN,"Professional, Scientific, and Technical Services",78.78,77.53,2680961,301317068,Cerner Corp.
+CF,Manufacturing,52.77,52.33,1226766,214514904,CF Industries Holdings Inc
+SCHW,Finance and Insurance,71.19,72.17,5414960,1807052639,Charles Schwab Corp.
+CHTR,Information,691.595,692.52,761141,188666160,Charter Communications Inc. - Class A
+CVX,Manufacturing,104.1,104.12,10352761,1928059179,Chevron Corp.
+CMG,Accommodation and Food Services,1348.31,1330.0,243521,28150479,Chipotle Mexican Grill
+CB,Finance and Insurance,166.62,166.71,2578311,449690575,Chubb Limited
+CHD,Manufacturing,87.47,87.19,1505406,245245902,"Church & Dwight Co., Inc."
+CI,Finance and Insurance,261.65,262.24,1020911,343145549,Cigna Corp.
+CINF,Finance and Insurance,121.05,120.28,515137,161096632,Cincinnati Financial Corp.
+CTAS,Public Administration,351.65,348.43,316184,105029963,Cintas Corporation
+CSCO,Manufacturing,52.765,52.43,24468371,4221785547,"Cisco Systems, Inc."
+C,Finance and Insurance,76.5,77.65,18544495,2067047519,Citigroup Inc
+CFG,Finance and Insurance,48.83,49.39,3697543,425930159,Citizens Financial Group Inc
+CTXS,Information,115.98,115.81,1136699,124167045,"Citrix Systems, Inc."
+CLX,Manufacturing,180.48,178.35,2113964,124372035,Clorox Co.
+CME,Finance and Insurance,215.02,217.78,964721,359094042,CME Group Inc - Class A
+CMS,Utilities,63.87,64.15,1665044,289459560,CMS Energy Corporation
+KO,Manufacturing,54.8,54.62,16033217,4311680667,Coca-Cola Co
+CTSH,Information,71.73,71.24,2473591,527411884,Cognizant Technology Solutions Corp. - Class A
+CL,Manufacturing,84.29,84.23,3497927,845968780,Colgate-Palmolive Co.
+CMCSA,Information,55.33,55.08,16449295,4584844820,Comcast Corp - Class A
+CMA,Finance and Insurance,77.15,77.63,1036508,139612779,"Comerica, Inc."
+DIS,,172.22,172.4,8105719,1816932058,Walt Disney Co (The)
+WM,Administrative and Support and Waste Management and Remediation Services,141.17,140.97,1573506,422127260,"Waste Management, Inc."
+WAT,Manufacturing,312.18,312.22,718408,61700498,Waters Corp.
+WEC,Utilities,95.5,96.22,2638981,315434531,WEC Energy Group Inc
+WFC,Finance and Insurance,45.97,45.88,27312655,4133571501,Wells Fargo & Co.
+WELL,Finance and Insurance,73.64,73.28,1219640,417520500,Welltower Inc
+WST,Health Care and Social Assistance,334.01,333.45,680074,73823701,"West Pharmaceutical Services, Inc."
+WDC,Manufacturing,72.33,72.34,4838116,306452886,Western Digital Corp.
+WU,Information,24.53,24.57,5850903,409252217,Western Union Company
+WRK,Manufacturing,58.04,57.94,2294883,266116343,WestRock Co
+WY,Finance and Insurance,37.24,37.04,4788124,749215000,Weyerhaeuser Co.
+WHR,Manufacturing,238.14,236.86,554742,62624750,Whirlpool Corp.
+WMB,Transportation and Warehousing,26.49,26.39,5021706,1214762352,Williams Cos Inc
+WLTW,Finance and Insurance,263.49,262.81,1282649,128976752,Willis Towers Watson Public Limited Co
+WYNN,"Arts, Entertainment, and Recreation",127.74,127.36,1889120,115658123,Wynn Resorts Ltd.
+XEL,Utilities,71.77,72.04,2551959,538206800,"Xcel Energy, Inc."
+XRX,Manufacturing,23.88,23.74,1331238,191947343,Xerox Holdings Corp
+XLNX,Manufacturing,124.95,122.81,1098255,245840000,"Xilinx, Inc."
+XYL,Manufacturing,114.44,115.47,696397,180041590,Xylem Inc
+YUM,Accommodation and Food Services,120.25,119.71,2185010,297901153,Yum Brands Inc.
+ZBRA,Manufacturing,496.64,494.33,238222,53511255,Zebra Technologies Corp. - Class A
+ZBH,Manufacturing,168.0,167.32,824417,208482101,Zimmer Biomet Holdings Inc
+ZION,Finance and Insurance,57.1,58.1,1776408,163815613,Zions Bancorporation N.A
+ZTS,Manufacturing,176.55,176.02,3330084,474766701,Zoetis Inc - Class A
