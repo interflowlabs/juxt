@@ -46,12 +46,12 @@ if __name__ == '__main__':
     # upload side 1
     response = requests.post(f'https://juxt.io/session/upload/file?session={session_id}',
                                 headers=REQUEST_HEADERS,
-                                files={'file': open('/Users/ezrakatz/PycharmProjects/interflowlabs-places-report/example_2/data/iexfinance.csv', 'rb')})
+                                files={'file': open('./juxt_api_example/data/iexfinance.csv', 'rb')})
 
     # upload side 2
     response = requests.post(f'https://juxt.io/session/upload/file?session={session_id}',
                                 headers=REQUEST_HEADERS,
-                                files={'file': open('/Users/ezrakatz/PycharmProjects/interflowlabs-places-report/example_2/data/yfinance.csv', 'rb')})
+                                files={'file': open('./juxt_api_example/data/yfinance.csv', 'rb')})
 
     # and, finally, submit
     response = requests.get(f'https://juxt.io/session/submit?session={session_id}', headers=REQUEST_HEADERS)
